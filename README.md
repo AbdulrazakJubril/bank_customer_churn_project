@@ -71,18 +71,12 @@ The exploratory phase focused on uncovering patterns between customer attributes
 Key insights were presented through an Excel dashboard. Add your screenshots here:
 
 - **Churn by Geography**  
-  ![Churn by Geography](visuals/churn_by_geography.png)
 
 - **Churn by Age Group**  
-  ![Churn by Age](visuals/churn_by_age.png)
 
 - **Satisfaction Score vs Churn**  
-  ![Satisfaction vs Churn](visuals/satisfaction_vs_churn.png)
 
 - **Product Engagement vs Churn**  
-  ![Product Engagement](visuals/product_engagement.png)
-
-*(Save your Excel dashboard screenshots in a `/visuals` folder and link them as shown above.)*
 
 ---
 
